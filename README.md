@@ -13,7 +13,7 @@ Tool Used: Python, Django, Django-Channels, Websocket, Redis Server, SQLITE3, Re
 Javascript etc.
 
 
---> Here 'chat' is the project file & 'core' is the project app.
+--> Here 'chat' is the project folder & 'core' is the project app
 
 
 Step-1: Installing the redis-server for windows
