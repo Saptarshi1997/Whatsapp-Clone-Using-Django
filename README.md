@@ -9,7 +9,11 @@ live chat notification we have used Websocket which creates the connection. To g
 less latency we have used redis server.
 
 
-Tool Used: Python, Django, Django-Channels, Websocket, Redis Server, Rest API, HTML, CSS, Javascript etc.
+Tool Used: Python, Django, Django-Channels, Websocket, Redis Server, SQLITE3, Rest API, HTML, CSS, 
+Javascript etc.
+
+
+--> Here 'chat' is the project file & 'core' is the project app.
 
 
 Step-1: Installing the redis-server for windows
