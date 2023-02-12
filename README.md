@@ -44,7 +44,7 @@ Use this command: python manage.py createsuperuser
 
 # Step-7: Run the ASGI server
 Use the command: python manage.py runserver
---> Please check the server which is running is ASGI/CHANNEL or not
+--> Please check the server which is running in console is ASGI/CHANNEL or not
 --> The project will not be executed if the server is Development server
 
 
