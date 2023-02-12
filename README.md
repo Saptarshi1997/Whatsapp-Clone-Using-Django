@@ -44,8 +44,11 @@ Use this command: python manage.py createsuperuser
 
 # Step-7: Run the ASGI server
 Use the command: python manage.py runserver
---> Please check the server which is running in console is ASGI/CHANNEL or not
---> The project will not be executed if the server is Development server
 
+--> Please check the server which is running in console is ASGI/CHANNEL or not
+
+--> Please use the same versions which is listed in requirements.txt to get ASGI server
+
+--> The project will not be executed if the server is Development server
 
 --> Go to any browser and search for: http://localhost:8000
